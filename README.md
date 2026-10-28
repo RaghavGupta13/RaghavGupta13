@@ -65,7 +65,7 @@ object Raghav {
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
-![RAG, Prompt Engineering, Semantic Search]
+![RAG](https://img.shields.io/badge/RAG-181717?style=flat-square)
 
 </div>
 
